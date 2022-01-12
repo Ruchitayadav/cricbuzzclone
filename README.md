@@ -1,6 +1,6 @@
 # Cricbuzz Clone
 Cricbuzz is a sports website which is used to give the past, present and future news related to cricket built using HTML and CSS.
-# Prject Status
+# Project Status
 This project is under development
 # Project Screen Shots
 ![image (14) (1)](https://user-images.githubusercontent.com/78698034/141746124-7d2fdec2-5b28-4b0f-910a-15f6a7562894.png)
