@@ -1,0 +1,269 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+body{
+    height: 100%;
+  background-color: #e3e6e3;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+     }
+     .logo{
+          height: 32px;
+          margin-top: 5px;
+          margin-top: 10px;
+          margin-right:10px ;
+          padding: 15px;
+padding-left: 20px;
+          
+     }
+     .nav{
+    
+         height:48px;
+         background-color:#236323;
+         display: flex;
+align-items: center;
+         
+     }
+     .navitem{
+         color: white;
+         display: flex;
+         padding-right:8px ;
+         padding-left: 8px;
+         font-size: 13px;
+         align-items: center;
+
+     }
+     .material-icons-outlined{color:white;
+      display: flex;
+     
+      font-size: 20px;
+      align-items: right;
+}
+.nav-item-black{
+  background-color: black;
+  color:white;
+text-align: center;
+font-size: 14px;
+height: 32px;
+margin-top: 5px;
+margin-top: 10px;
+margin-right:10px ;
+padding: 12px;
+padding-left: 10px;
+align-items: center;
+}
+.icons{color: white;
+  display: flex;
+  padding-right:8px ;
+  padding-left: 10px;
+  font-size: 14px;
+  align-items: center;
+
+}
+     .featured-matches {
+height: 110px;
+background-color: white;
+margin-top: 5px;
+padding: 15px;
+padding-left: 20px;
+}
+
+.featured-match-heading {
+color: #009270;
+font-weight: 700;
+}
+
+.match {
+  margin-top: 10px;
+  font-size: 14px;
+  border-right: 1px solid rgb(218,218,218);
+  padding:10px;
+  padding-left: 10px;
+  padding-right: 70px;
+
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.match-country {
+  font-weight: 700;
+  margin-right: 20px;
+}
+.featured-matches-score{
+display:flex;
+justify-content: space-between;
+}
+
+.featured-match-sub {
+  font-size: 10px;
+  color: #d0021b;
+  margin-top: 10px;
+}
+.dark-match{
+width: 1000px;
+ margin: 0 auto;
+height:48px;
+background-color:black;
+ display: flex;
+align-items: center;
+}
+.dark-section{
+  color:white;
+font-weight: 200;
+font-size: 12px;
+display:flex;
+padding: 12px;
+padding-left: 20px;
+}
+.nav-dark{
+  background-color:rgb(59, 52, 52);
+  height:48px;
+display: flex;
+align-items: center;
+padding-right:5px ;
+         padding-left: 20px;
+         font-size: 12px;
+
+}
+.dark-items{color: White;
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 12px;
+  align-items: center;
+
+}
+.dark-item{
+  color:white;
+  display: flex;
+  padding-right:100px ;
+  padding-left: 170px;
+  font-size: 14px;
+  align-items: center;
+  }
+.T20section{ width: 1000px;
+margin: 0 auto;
+height:48px;
+background-color:white;
+ display: flex;
+align-items: center;
+margin-top: 5px;
+
+
+
+}
+.T-section{
+color:#186618;
+font-weight: 700;
+font-size: 20px;
+display:flex;
+padding: 15px;
+padding-left: 20px;
+
+}
+.navsection{ 
+
+height:48px;
+display: flex;
+align-items: center;
+padding-right:10px ;
+         padding-left: 10px;
+         font-size: 14px;
+         }
+     .navitems{
+      color: blue;
+         display: flex;
+         padding-right:5px ;
+         padding-left: 10px;
+         font-size: 14px;
+         align-items: center;
+      }
+      .content {
+        width: 1000px;
+    margin: 0 auto;
+    padding:5px;
+display: flex;
+}
+
+.latest-news {
+width: 196px;
+background-color: white;
+padding: 15px;
+padding-left: 20px;
+}
+.latest-news-heading {
+padding: 10px;
+}
+
+.one-latest-news {
+padding: 10px;
+font-size: 14px;
+}
+
+.latest-news-duration {
+font-size: 12px;
+color: rgb(140, 139, 139);
+}
+
+.main-news {
+width: 420px;
+background-color: white;
+padding: 10px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.featured-videos {
+color: #009270;
+font-weight: 700;
+width: 350px;
+background-color: white;
+align-items: center;
+padding:5px;
+}
+.featured-vid{
+border-radius: 5px;
+width:345px;
+}
+.vid-title{
+font-weight: 600;
+font-size: 15px;
+color:blue;
+}
+.latest-vid-duration {
+font-size: 12px;
+color: rgb(140, 139, 139);
+}
+
+.news-tag {
+font-size: 13px;
+color: rgb(162, 162, 162);
+margin-bottom: 10px;
+}
+
+.news-image {
+border-radius: 5px;
+}
+
+.news-title {
+font-weight: 700;
+font-size: 22px;
+}
+
+.news-desc {
+color: rgb(114, 114, 114);
+font-size: 14px;
+margin-top: 10px;
+line-height: 22px;
+}
+
+.news-links {
+color: #1866DB;
+font-weight: 600;
+}
+
+.news-inks-group {
+margin-top: 10px;
+}
